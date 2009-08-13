@@ -1,0 +1,3 @@
+A module that converts integers, floats, and numeric strings to a cardinal direction based on user defined increments of 360 degrees.
+
+See tests for example usage.
