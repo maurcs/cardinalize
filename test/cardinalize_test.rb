@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class CardinalityTest < Test::Unit::TestCase
+class CardinalizeTest < Test::Unit::TestCase
   # Replace this with your real tests.
   def test_a_floats_cardinality
 		assert_equal 10.0.cardinalize, "North"
